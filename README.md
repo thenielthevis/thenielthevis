@@ -13,6 +13,7 @@
 🌱 Currently learning more about:
 - React.js & Node.js
 - Python
+- Mobile/Game Development
 - Database Systems
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-davis15/)
